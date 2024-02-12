@@ -21,4 +21,4 @@ DELETE a country by ID: http://localhost:8080/countries/{id}
 I used Postman to test the operations. The program contains an array with data of three countries.
 
 To improve this I could use a database instead of an array, make swagger documentation, add a frontend.
-As this was just a small practice run, most likely I will use this as a template in a different project in the future.
+As this was just a small practice run, most likely I might use this as a template in the future.
